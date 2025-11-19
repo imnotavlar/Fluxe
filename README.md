@@ -107,7 +107,7 @@ O protótipo apresenta as funcionalidades:
 
 ## 👥 6. Integrantes da Equipe
 
-* Kevyn Paiva
+* [Kevyn Paiva](https://github.com/kevynpaiva22)
 * [Ricardo Augusto](https://github.com/Ricardo-augusto22)
 * [Yago Avelar](https://github.com/imnotavlar)
 
