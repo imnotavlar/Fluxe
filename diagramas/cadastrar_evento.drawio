@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Página-1" id="aucYtSLUgYy0qOOxzmAs">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Empresa" vertex="1">
+          <mxGeometry height="50" width="100" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-2" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="420" width="420" x="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-8" edge="1" parent="1" source="pvwYnc7tpOjblXsNH4dY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pvwYnc7tpOjblXsNH4dY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-12" connectable="0" parent="pvwYnc7tpOjblXsNH4dY-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Dados" vertex="1">
+          <mxGeometry relative="1" x="-0.05" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-3" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Receber&amp;nbsp;&lt;div&gt;Dados&lt;/div&gt;&lt;div&gt;do Evento&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-4" edge="1" parent="1" source="pvwYnc7tpOjblXsNH4dY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="pvwYnc7tpOjblXsNH4dY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-5" connectable="0" parent="pvwYnc7tpOjblXsNH4dY-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digitar/Enviar&lt;div&gt;Dados&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2308" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-14" edge="1" parent="1" source="pvwYnc7tpOjblXsNH4dY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="pvwYnc7tpOjblXsNH4dY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-15" connectable="0" parent="pvwYnc7tpOjblXsNH4dY-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Dados Validos&lt;div&gt;do&lt;/div&gt;&lt;div&gt;Evento&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.08" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-7" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Validar&lt;div&gt;Dados&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-17" edge="1" parent="1" source="pvwYnc7tpOjblXsNH4dY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="pvwYnc7tpOjblXsNH4dY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-13" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Registrar&lt;div&gt;Evento&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="460" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pvwYnc7tpOjblXsNH4dY-16" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Eventos Cadastrados" vertex="1">
+          <mxGeometry height="30" width="100" x="650" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

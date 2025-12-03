@@ -1,0 +1,61 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Página-1" id="dbEGMdYf8ss2fKcxWc41">
+    <mxGraphModel dx="1098" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5d1thevHuwnQc4eNZ59V-1" value="Usuário" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-2" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="200" y="30" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5d1thevHuwnQc4eNZ59V-3" target="5d1thevHuwnQc4eNZ59V-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-9" value="Código&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5d1thevHuwnQc4eNZ59V-8" connectable="0" vertex="1">
+          <mxGeometry x="-0.2444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-3" value="Receber&lt;div&gt;Solicitação&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5d1thevHuwnQc4eNZ59V-1" target="5d1thevHuwnQc4eNZ59V-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-5" value="Solicitação&lt;div&gt;(ID do Ingresso)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5d1thevHuwnQc4eNZ59V-4" connectable="0" vertex="1">
+          <mxGeometry x="-0.2258" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5d1thevHuwnQc4eNZ59V-7" target="5d1thevHuwnQc4eNZ59V-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-13" value="Código Valido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5d1thevHuwnQc4eNZ59V-12" connectable="0" vertex="1">
+          <mxGeometry x="0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-7" value="Validar&lt;div&gt;Solicitação&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="280" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-18" value="Situação do ingresso&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5d1thevHuwnQc4eNZ59V-11" target="5d1thevHuwnQc4eNZ59V-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-11" value="Consultar&lt;div&gt;no&lt;/div&gt;&lt;div&gt;BD&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="460" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5d1thevHuwnQc4eNZ59V-15" target="5d1thevHuwnQc4eNZ59V-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-15" value="Ingressos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5d1thevHuwnQc4eNZ59V-17" value="Retornar&lt;div&gt;Informações&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Página-1" id="KKG2CaU6QW2JTAzaM8n2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Admin" vertex="1">
+          <mxGeometry height="50" width="100" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-2" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="430" width="430" x="199" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-8" edge="1" parent="1" source="y8P5B7zkBlOwAVEOiX01-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="y8P5B7zkBlOwAVEOiX01-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-13" connectable="0" parent="y8P5B7zkBlOwAVEOiX01-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Registro" vertex="1">
+          <mxGeometry relative="1" x="-0.02" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-3" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Analisar&lt;div&gt;Registro&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-4" edge="1" parent="1" source="y8P5B7zkBlOwAVEOiX01-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-5" connectable="0" parent="y8P5B7zkBlOwAVEOiX01-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Chamado&lt;div&gt;feito por&amp;nbsp;&lt;/div&gt;&lt;div&gt;Usuários/Empresas&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.312" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-11" edge="1" parent="1" source="y8P5B7zkBlOwAVEOiX01-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y8P5B7zkBlOwAVEOiX01-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-12" connectable="0" parent="y8P5B7zkBlOwAVEOiX01-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Penalidade" vertex="1">
+          <mxGeometry relative="1" x="-0.18" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-7" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="&amp;nbsp;Consultar&lt;div&gt;Regras e&lt;/div&gt;&lt;div&gt;Penalidades&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GLYjHIn0BGbXCDsPn-3d-2" edge="1" parent="1" source="y8P5B7zkBlOwAVEOiX01-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GLYjHIn0BGbXCDsPn-3d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GLYjHIn0BGbXCDsPn-3d-3" connectable="0" parent="GLYjHIn0BGbXCDsPn-3d-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Usuário punido" vertex="1">
+          <mxGeometry relative="1" x="-0.1543" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GLYjHIn0BGbXCDsPn-3d-6" edge="1" parent="1" source="y8P5B7zkBlOwAVEOiX01-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="GLYjHIn0BGbXCDsPn-3d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-10" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Aplicar&lt;div&gt;Punições&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="470" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GLYjHIn0BGbXCDsPn-3d-5" edge="1" parent="1" source="y8P5B7zkBlOwAVEOiX01-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="y8P5B7zkBlOwAVEOiX01-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="90" />
+              <mxPoint x="390" y="90" />
+              <mxPoint x="390" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8P5B7zkBlOwAVEOiX01-14" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Regras e Penalidades" vertex="1">
+          <mxGeometry height="30" width="100" x="670" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GLYjHIn0BGbXCDsPn-3d-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Punições Aplicadas" vertex="1">
+          <mxGeometry height="30" width="100" x="670" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GLYjHIn0BGbXCDsPn-3d-4" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Notificar&lt;div&gt;Usuário&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="470" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

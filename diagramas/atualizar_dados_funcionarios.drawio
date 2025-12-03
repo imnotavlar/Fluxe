@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Página-1" id="yvSCUGbOsFZ-ljf0cq5_">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-2" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Empresa" vertex="1">
+          <mxGeometry height="50" width="100" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-3" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="440" width="440" x="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-7" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_LbAi5PIWrW_JxDwDtVg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-4" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Selecionar&lt;div&gt;Funcionário&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-5" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" target="_LbAi5PIWrW_JxDwDtVg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-9" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_LbAi5PIWrW_JxDwDtVg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-6" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Exibir Dados&lt;div&gt;do&lt;/div&gt;&lt;div&gt;Funcionário&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22shape%3Dellipse%3Bhtml%3D1%3Bdashed%3D0%3BwhiteSpace%3Dwrap%3Baspect%3Dfixed%3Bperimeter%3DellipsePerimeter%3B%22%20value%3D%22Selecionar%26lt%3Bdiv%26gt%3BFuncion%C3%A1rio%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%2280%22%20x%3D%22270%22%20y%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-11" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_LbAi5PIWrW_JxDwDtVg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-12" connectable="0" parent="_LbAi5PIWrW_JxDwDtVg-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Dados" vertex="1">
+          <mxGeometry relative="1" x="0.125" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-8" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Receber novos&lt;div&gt;Dados&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-14" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="_LbAi5PIWrW_JxDwDtVg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-15" connectable="0" parent="_LbAi5PIWrW_JxDwDtVg-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Dados Válidos" vertex="1">
+          <mxGeometry relative="1" x="-0.1714" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-10" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Validar&lt;div&gt;Dados&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="440" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-17" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_LbAi5PIWrW_JxDwDtVg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-20" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="_LbAi5PIWrW_JxDwDtVg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-13" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Atualizar&lt;div&gt;Funcionários&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="440" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-16" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Funcionários" vertex="1">
+          <mxGeometry height="30" width="100" x="680" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-21" edge="1" parent="1" source="_LbAi5PIWrW_JxDwDtVg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-19" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Retornar&lt;div&gt;Confirmação&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_LbAi5PIWrW_JxDwDtVg-22" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Empresa" vertex="1">
+          <mxGeometry height="30" width="100" x="690" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
